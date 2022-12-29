@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil R</h1>
 <h3 align="center">An Aspiring Data Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsuresh11&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsuresh11" /> </p>
 
