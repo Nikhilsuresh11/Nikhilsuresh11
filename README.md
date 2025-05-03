@@ -1,15 +1,15 @@
 # Nikhil R | Data Science Professional
 Software Developer, waiting for them to call me 'the consultant guy.'
 
+## About Me
+Data Science graduate with hands-on experience in machine learning, data analytics, and software development. Recently completed M.Sc. in Data Science at Coimbatore Institute of Technology. Passionate about leveraging data to drive insights and build intelligent solutions.
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsuresh11&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsuresh11&theme=dracula" alt="GitHub Streak" />
 </div>
 
-## About Me
-Data Science graduate with hands-on experience in machine learning, data analytics, and software development. Recently completed M.Sc. in Data Science at Coimbatore Institute of Technology. Passionate about leveraging data to drive insights and build intelligent solutions.
 
 ## 🔭 Experience
 - **Software Developer Intern** at **NGP Websmart** (Dec 2024 - Present)
