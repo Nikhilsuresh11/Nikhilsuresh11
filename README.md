@@ -61,12 +61,6 @@ Data Science graduate with hands-on experience in machine learning, data analyti
 - Published paper at the 9th International Conference on Business Analytics and Intelligence 2022 at IIM Bangalore
 - Finalist in National level Melinia Hackathon symposium conducted by CIT, 2022
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsuresh11&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsuresh11&theme=dracula" alt="GitHub Streak" />
-</div>
 
 ## 📫 Connect With Me
 <p align="center">
