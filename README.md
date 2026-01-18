@@ -7,7 +7,7 @@ Data Science graduate with hands-on experience in machine learning, data analyti
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsuresh11&layout=compact&theme=dracula" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=nikhilsuresh11&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nikhilsuresh11&theme=dracula" alt="GitHub Streak Fast Stats"/>
 </div>
 
 
