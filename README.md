@@ -4,7 +4,7 @@ Building intelligent systems that bridge AI innovation with real-world business 
 
 ## 👨‍💻 About Me
 
-AI/ML Engineer specializing in **generative AI**, **backend systems**, and **data-driven solutions**. Currently developing production microservices at NGP Websmart while building AI-powered applications that automate complex workflows. Passionate about LangChain, RAG architectures, and turning data into actionable intelligence.
+Backend Engineer specializing in **backend systems**, **generative AI** and **data-driven solutions**. Currently developing production microservices at NGP Websmart while building AI-powered applications that automate complex workflows. Passionate about LangChain, RAG architectures, and turning data into actionable intelligence.
 
 **Current Focus:** Multi-agent AI systems, real-time data pipelines, and scalable backend architectures
 
