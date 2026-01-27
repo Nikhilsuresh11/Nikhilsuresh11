@@ -1,4 +1,4 @@
-# Nikhil R | AI Engineer & Backend Developer
+# Nikhil R | Software Developer
 
 Building intelligent systems that bridge AI innovation with real-world business impact.
 
